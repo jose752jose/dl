@@ -7,7 +7,7 @@ from pyrogram.types import  InlineKeyboardMarkup, InlineKeyboardButton
 
 api_id = 18403498 #int of api id get from my.telegram.org
 api_hash = '2c0b01283b1b67f7087a92cc81cd91f8' #str of api hash get from my.telegram.org
-token = '5329361382:AAE84lsb0tFVSgeO2u6NCp7FgfGLw9FkNJA' #str of token get from BotFather
+token = '5271588987:AAGPp0IJb_bcJcqp660yAdeSNTOnzAvWFd0' #str of token get from BotFather
 app = Client("Downlaoder", api_id, api_hash, bot_token=token) # You Can Change The Session Name by Replace "Downlaoder" to your session name
 
 
